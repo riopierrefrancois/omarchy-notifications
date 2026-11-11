@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "pfr.notifications",
+  "name": "Notifications",
+  "version": "1.0.0",
+  "author": "PF",
+  "license": "MIT",
+  "description": "A bell on the bar that opens a notification drawer on the side of the screen.",
+  "kinds": ["bar-widget"],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Notifications",
+    "description": "Bell that opens the notification drawer.",
+    "category": "System",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}

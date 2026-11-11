@@ -1,0 +1,17 @@
+{
+  "bar.tooltip": "Notifications",
+  "bar.quiet": "Notifications are quiet",
+  "bar.unread": { "one": "%1 new notification", "other": "%1 new notifications" },
+  "drawer.title": "Notifications",
+  "drawer.closeAll": "Close all",
+  "drawer.group": "Group",
+  "drawer.grouped": "Grouped",
+  "drawer.quiet": "Quiet",
+  "drawer.resume": "Resume",
+  "drawer.emptyTitle": "You're all caught up",
+  "drawer.emptyBody": "Notifications from today show up here.",
+  "row.unknownApp": "Notification",
+  "row.justNow": "Just now",
+  "row.yesterday": "Yesterday",
+  "row.agoMinutes": { "one": "%1 minute ago", "other": "%1 minutes ago" }
+}
